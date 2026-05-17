@@ -1,16 +1,24 @@
 # 💫 Hi 👋, I'm Manjari Tripathi
 **An aspiring Software Engineer || Full-Stack Developer ||**
 
-Email Me 👉 ✉️ **manjari.tripathi.techgmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **manjari.tripathi.techgmail.com** For Collaborations/Projects
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** React.js
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** manjari.tripathi.tech@gmail.com
-- 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+🔭 I’m currently working on: Full-Stack Development Projects & DSA Practice
+
+🌱 I’m currently learning: React.js & Modern Web Development
+
+👯 I’m looking to collaborate on: Open-Source Projects, Full-Stack Development, and Innovative Software Solutions
+
+🤔 I’m looking for help with: Scalable Full-Stack Project Ideas & Best Development Practices
+
+💬 Ask me about: Java, DSA, Web Development & Collaboration
+
+📫 How to reach me: [manjari.tripathi.tech@gmail.com](mailto:manjari.tripathi.tech@gmail.com)
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I love turning ideas into tech solutions 🚀
+
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
