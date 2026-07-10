@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Manjari Tripathi  
-### Aspiring Software Engineer | Full-Stack Developer | Problem Solver 🚀  
+### Aspiring Software Engineer |Backend Developer | Problem Solver 🚀  
 
 📧 Email: **manjari.tripathi.tech@gmail.com**  
 💡 Open to collaborations, innovative projects, and learning opportunities  
@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About Me  
 
-🔭 Currently working on **Full-Stack Development Projects & DSA Practice**  
+🔭 Currently working on **Backend Development Projects & DSA Practice**  
 
-🌱 Currently learning **React.js, Modern Web Development & Scalable Applications**  
+🌱 Currently learning **Modern Web Development & Scalable Applications**  
 
 👯 Looking to collaborate on **Open-Source Projects, Full-Stack Applications & Innovative Software Solutions**  
 
