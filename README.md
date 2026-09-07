@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Manjari Tripathi  
-### Aspiring Software Engineer |Backend Developer | Problem Solver 🚀  
+### Junior Software Engineer | Backend Developer | Problem Solver 🚀  
 
 📧 Email: **manjari.tripathi.tech@gmail.com**  
 💡 Open to collaborations, innovative projects, and learning opportunities  
