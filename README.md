@@ -1,9 +1,4 @@
 
-<!-- ==========================================================
-     MANJARI TRIPATHI | GITHUB PROFILE README
-     B.Tech CSE | 3rd Year
-     ========================================================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:172554,45:2563EB,100:7C3AED&height=200&section=header&text=MANJARI%20TRIPATHI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Code%20%7C%20Learn%20%7C%20Build%20%7C%20Innovate&descSize=17&descAlignY=60"/>
@@ -131,45 +126,33 @@ Hey there! I'm **Manjari Tripathi**, a third-year B.Tech Computer Science Engine
 
 ---
 
-## 💻 GitHub Statistics
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manjariii8&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=7C3AED&text_color=64748B&include_all_commits=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=manjariii8&hide_border=true&background=00000000&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&sideLabels=64748B&currStreakNum=2563EB&sideNums=64748B&dates=64748B"/>
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjariii8&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B&langs_count=8"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manjariii8&bg_color=00000000&color=2563EB&line=6366F1&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
+### 🐍 My Contribution Journey
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manjariii8/manjariii8/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manjariii8/manjariii8/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/manjariii8/manjariii8/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/manjariii8/manjariii8/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
+<br/>
+
+**Explore my actual GitHub contributions, repositories and development activity.**
+
+<a href="https://github.com/manjariii8?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manjariii8">
+<img src="https://img.shields.io/badge/View_Contribution_History-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
 
 ## 🌱 Beyond Coding
 
